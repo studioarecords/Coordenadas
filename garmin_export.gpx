@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx creator="StrikerCast" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:uuidx="http://www.garmin.com/xmlschemas/IdentifierExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/IdentifierExtension/v1 http://www.garmin.com/xmlschemas/IdentifierExtension.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2025-10-02T13:27:17Z</time>
+    </metadata>
+    <wpt lat="-34.8636999540" lon="57.8988499381">
+        <time>2025-10-02T12:50:56Z</time>
+        <name>0008</name>
+        <sym>Anchor</sym>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <uuidx:uuid>5922eb51-8931-478e-867d-cb34d9b2f779</uuidx:uuid>
+        </extensions>
+    </wpt>
+</gpx>
